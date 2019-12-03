@@ -1,8 +1,16 @@
 # CapsNet with PyTorch
 
-Implementation of capsule network with pytorch. 
+Implementation of capsule network with [pytorch](https://pytorch.org/).
 
-https://pytorch.org/
+This is the architecture of a capsule network:
+
+![](figures/architecture_encoder.gif)
+
+The network is trained on the FashionMNIST dataset:
+
+![](image.png)
+
+Adapted from:
 
 https://github.com/gram-ai/capsule-networks
 
