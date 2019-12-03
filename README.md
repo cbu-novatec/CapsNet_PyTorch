@@ -8,7 +8,7 @@ This is the architecture of a capsule network:
 
 The network is trained on the FashionMNIST dataset:
 
-![](image.png)
+![](figures/image.png)
 
 Adapted from:
 
